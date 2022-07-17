@@ -18,7 +18,7 @@ public class Program {
 		
 		List<Product> list = new ArrayList<>();
 
-		String path = "C:\\temp\\in.txt";
+		String path = "D:\\Repositórios github 2022\\generics2-java\\in.txt.txt";
 
 		try (BufferedReader br = new BufferedReader(new FileReader(path))) {
 
